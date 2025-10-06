@@ -1,5 +1,5 @@
 
-### 👨🏻‍💻 Jonas Honorio - Estudante de Banco de Dados
+### 👨🏻‍💻 Olá! Eu sou o Jonas Honorio - Estudante de Banco de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/Jonas-Marques-Honorio)
 
